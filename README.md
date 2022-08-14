@@ -1,2 +1,0 @@
-# WeatherApp
-Simple Weather Info
