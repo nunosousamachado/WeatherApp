@@ -4,7 +4,7 @@
  *  @interface ICurrentWeather
  *  @param {string} city
  *  @param {string} country
- *  @param {Date} date
+ *  @param {number} date
  *  @param {string} image
  *  @param {number} temperature
  *  @param {string} description
@@ -20,7 +20,7 @@
 export interface ICurrentWeather {
     city: string;
     country: string;
-    date: Date;
+    date: number;
     image: string;
     temperature: number;
     description: string;
